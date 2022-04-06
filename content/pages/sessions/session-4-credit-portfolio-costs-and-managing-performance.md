@@ -50,7 +50,7 @@ Interactive
 Lecture Slides
 --------------
 
-[{{< resource 092224d8-7225-3d47-1326-25bdfc79b160 >}}]({{< baseurl >}}/resources/mitres15-002sum16_session_4)
+{{< resource uuid="092224d8-7225-3d47-1326-25bdfc79b160" href_uuid="55b885bb-3874-c937-dcc8-a44fb3b70fbb" >}}
 
 {{% resource_link 55b885bb-3874-c937-dcc8-a44fb3b70fbb "Session 4 Slides: Managing Operating Costs and Credit Risk (PDF)" %}}
 

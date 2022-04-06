@@ -50,7 +50,7 @@ Interactive
 Lecture Slides
 --------------
 
-[{{< resource d77d319d-b23a-f9b8-bc36-93c284ff9591 >}}]({{< baseurl >}}/resources/mitres15-002sum16_session_5)
+{{< resource uuid="d77d319d-b23a-f9b8-bc36-93c284ff9591" href_uuid="4625a14d-141b-9105-e078-e820bbaf2269" >}}
 
 {{% resource_link 4625a14d-141b-9105-e078-e820bbaf2269 "Session 5 Slides: Working with Private Partners (PDF)" %}}
 

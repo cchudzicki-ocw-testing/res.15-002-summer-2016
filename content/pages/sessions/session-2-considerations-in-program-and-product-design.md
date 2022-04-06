@@ -44,7 +44,7 @@ Interactive
 Lecture Slides
 --------------
 
-[{{< resource 926a807d-d3b3-ff4b-957e-a250cb3ba80d >}}]({{< baseurl >}}/resources/mitres15-002sum16_session_2)
+{{< resource uuid="926a807d-d3b3-ff4b-957e-a250cb3ba80d" href_uuid="035d701c-afda-6a6a-3407-6c38459fdeda" >}}
 
 {{% resource_link 035d701c-afda-6a6a-3407-6c38459fdeda "Session 2 Slides: Considerations in Program and Product Design (PDF)" %}}
 

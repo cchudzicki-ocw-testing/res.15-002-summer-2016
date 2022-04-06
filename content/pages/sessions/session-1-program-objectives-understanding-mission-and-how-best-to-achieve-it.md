@@ -49,7 +49,7 @@ Interactive
 Lecture Slides
 --------------
 
-[{{< resource 080713cd-7130-a915-5930-ecc1ad2c12bc >}}]({{< baseurl >}}/resources/mitres15-002sum16_session_1)
+{{< resource uuid="080713cd-7130-a915-5930-ecc1ad2c12bc" href_uuid="e3d14fc3-d22b-c05a-0a17-99df0fd1eb56" >}}
 
 {{% resource_link e3d14fc3-d22b-c05a-0a17-99df0fd1eb56 "Session 1 Slides: Introduction and Program Objectives (PDF)" %}}
 
